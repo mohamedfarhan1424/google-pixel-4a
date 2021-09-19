@@ -1,0 +1,1 @@
+<svg ng-if="wombatCtrl.data.desktop_aspect_x" class="mqn2-aap ng-scope" ng-attr-view_box="0 0 [[wombatCtrl.data.desktop_aspect_x]] [[wombatCtrl.data.desktop_aspect_y]]" width="100%" viewBox="0 0 2000 937"></svg>
